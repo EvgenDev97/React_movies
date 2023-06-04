@@ -53,3 +53,12 @@ nav{
   display: flex;
   gap: 20px;
 }
+
+.page{
+  font-weight: bold;
+}
+
+.pagination{
+  padding-left: 10px;
+  cursor: pointer;
+}
